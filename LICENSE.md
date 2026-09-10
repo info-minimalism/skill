@@ -8,7 +8,15 @@ The MIT License below applies only to:
 - `references/evaluation-result.schema.json`
 - `release.json`
 
-The Standard, method documentation, and other repository content are not covered by this MIT grant. No new reuse license is granted for them here. Badge artwork retains its separate [display permission](assets/badge/README.md).
+## Standard and documentation — CC BY 4.0
+
+Copyright (c) 2026 nickmaio (Info-Minimalism)
+
+`README.md` and all Markdown documents in `references/`, including the Standard and method documentation, are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). See the [full legal terms](https://creativecommons.org/licenses/by/4.0/legalcode), including the disclaimer of warranties and limitation of liability.
+
+You may share and adapt these documents, including commercially, under those terms. Give appropriate credit, link to the license, and indicate changes. Suggested credit: “Info-Minimalism, by nickmaio — https://github.com/info-minimalism/skill — CC BY 4.0,” with any changes identified.
+
+This license does not imply endorsement of adaptations or grant trademark rights. Badge artwork and its usage guide in `assets/badge/` retain their separate [display permission](assets/badge/README.md) and are not covered by either grant. These grants do not license the book manuscript or other material outside the stated scope.
 
 ## MIT License
 
