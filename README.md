@@ -89,3 +89,9 @@ The [Standard](references/standard-v1.0.0.md), [version manifest](release.json),
 Brief reader answers are the default. Full structured records are available when useful or requested. Counts are proxies, not a universal measure of mental effort.
 
 For structured records, see [validation](references/structured-results.md).
+
+## Manifesto and reuse
+
+Read the founding [Info-Minimalism Manifesto](https://github.com/info-minimalism/manifesto).
+
+The skill instructions and code use the MIT License; see [the exact scope and terms](LICENSE.md). The Standard and method documentation are not covered by this grant. Badge artwork keeps its separate [display permission](assets/badge/README.md).
