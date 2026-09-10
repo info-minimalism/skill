@@ -94,4 +94,4 @@ For structured records, see [validation](references/structured-results.md).
 
 Read the founding [Info-Minimalism Manifesto](https://github.com/info-minimalism/manifesto).
 
-The skill instructions and code use the MIT License; see [the exact scope and terms](LICENSE.md). The Standard and method documentation are not covered by this grant. Badge artwork keeps its separate [display permission](assets/badge/README.md).
+The skill instructions and code use MIT; the Standard and documentation use CC BY 4.0. See [the exact scope and terms](LICENSE.md). Badge artwork keeps its separate [display permission](assets/badge/README.md).
