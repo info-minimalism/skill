@@ -68,6 +68,10 @@ Review the changes before publishing. The source-comparison request does not exp
 
 ## Publisher self-certification
 
+[![Info-Minimalist badge](assets/badge/info-minimalist-badge-color.svg)](assets/badge/README.md)
+
+[Download the badge and mark](assets/badge/README.md) in SVG or PNG, with color, black, and white versions. Link the badge on your site or profile to your publishing declaration.
+
 The checkmark means: “We check every new in-scope post before publishing, using the latest published Standard, and resolve its supported findings.”
 
 Read [the short procedure and declaration](references/publisher-self-certification.md). No outside permission, registry, or renewal calendar is required. Readers can question the claim through ordinary feedback. A clean sample is not a substitute for checking future posts.
