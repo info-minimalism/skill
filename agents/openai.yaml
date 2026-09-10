@@ -1,0 +1,7 @@
+interface:
+  display_name: "Info-Minimalism Evaluation"
+  short_description: "Audit social content for avoidable attention cost"
+  default_prompt: "Use $info-minimalism-evaluation-skill to evaluate this social content and produce a meaning-preserving minimal adequate rendering."
+
+policy:
+  allow_implicit_invocation: true
